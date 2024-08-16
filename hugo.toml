@@ -1,6 +1,6 @@
 baseurl = "http://www.example.com"
 title = "kevinlong.me"
-theme = "hugo-coder"
+theme = "kl-hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -63,7 +63,3 @@ style = "github-dark"
   name = "Blog"
   weight = 2
   url  = "posts/"
-[[menu.main]]
-  name = "Brain"
-  weight = 3
-  url  = "brain/"
